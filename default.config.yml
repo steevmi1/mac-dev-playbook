@@ -6,7 +6,7 @@ configure_sudoers: yes
 configure_terminal: no
 configure_osx: no
 
-dotfiles_repo: "https://github.com/steevmi1/dotfiles.git"
+dotfiles_repo: "git@github.com:steevmi1/dotfiles.git"
 dotfiles_repo_version: master
 dotfiles_repo_local_destination: "~/src/personal/dotfiles"
 dotfiles_home: "~"

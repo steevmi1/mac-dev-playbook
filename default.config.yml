@@ -13,7 +13,6 @@ dotfiles_home: "~"
 
 dotfiles_files:
         - { source: "git/.gitconfig", target: ".gitconfig" }
-        - { source: "git/.gitconfig-personal", target: ".gitconfig-personal" }
         - { source: "vim/.vimrc", target: ".vimrc" }
         - { source: "vi/.exrc", target: ".exrc" }
         - { source: "zsh/.zshrc", target: ".zshrc" }

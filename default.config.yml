@@ -121,8 +121,8 @@ homebrew_cask_apps:
   - docker
   - hammerspoon
     ##  Both of these are nice, but require a license. Holding off for now.
-    ##  - little-snitch
-    ##  - micro-snitch
+  - little-snitch
+  - micro-snitch
   - anaconda
   - 1Password
   - Steam
